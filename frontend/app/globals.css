@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Jika ingin menambahkan variabel warna figma tadi di v4 */
+@theme {
+  --color-blue-polibatam: #5da0dd;
+  --color-dark-header: #4d5e71;
+}
